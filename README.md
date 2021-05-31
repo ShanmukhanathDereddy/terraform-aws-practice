@@ -1,2 +1,2 @@
 # terraform-aws-practice
-Terraform is used for provision AWS resources
+Terraform is used for provisioning AWS resources

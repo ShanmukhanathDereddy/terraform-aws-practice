@@ -1,0 +1,10 @@
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+githubrepo.tf
+.terraform
+.aws
+.terraform.lock.hcl
+ssh-key.tf
+networking/.terraform
+networking/tflogfile.txt
